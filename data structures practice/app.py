@@ -1,5 +1,5 @@
 
-
+    #BINARY SEARCH
 def binary_search(list, item):
     # FIRST ELEMENT 
     low = 0 
@@ -8,9 +8,11 @@ def binary_search(list, item):
 
     # STILL SEARCHING
     while low <= high:
+    
     #CHECK MIDDLE ITEM
       mid = (low + high) // 2
       guess = list[mid]
+      print("attempt")
     # IF ITEM MATCHES
       if guess == item:
         return mid
