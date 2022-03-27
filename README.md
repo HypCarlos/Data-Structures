@@ -1,4 +1,4 @@
 # Data-Structures
-Data structures in Python!
+Data structures in Python & Java!
 
-Sources includ Grokking's Algorithms.
+Sources include Grokking's Algorithms.
